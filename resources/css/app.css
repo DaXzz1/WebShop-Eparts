@@ -1,0 +1,100 @@
+@import "../../vendor/filament/forms/dist/module.esm.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    min-width: 100vw;
+    min-height: 100vh;
+    font-family: "Montserrat", sans-serif;
+    overflow-x: hidden;
+}
+
+.tippy-box[data-theme~='transparent'] {
+    background: transparent;
+    box-shadow: none;
+    padding: 0;
+}
+.tippy-box[data-theme~='transparent'] .tippy-content {
+    padding: 0;
+}
+
+.tippy-box[data-theme~='transparent'] .tippy-arrow {
+    color: white;
+}
+
+.required::after {
+    content: "*";
+    @apply text-error
+}
+
+#notify-toast {
+    animation: slide-in 0.5s ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+#notify-toast.deactivate {
+    animation: slide-out 0.5s ease-in-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes slide-in {
+    0% {
+        transform: translateX(150%);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+@keyframes slide-out {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(150%);
+    }
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+    width: 0.5rem;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 0.5rem;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar-thumb {
+    background: #e0a82e;
+    border-radius: 0.5rem;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar-thumb:hover {
+    background: #e0a82e;
+}
+
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar-thumb:active {
+    background: #555;
+}
+
+.lazy-image {
+    @apply animate-pulse;
+    background-color: #f1f1f1;
+}
+
+img[alt]:after {
+    content: "";
+    display: block;
+    height: 0;
+    margin-bottom: 1rem;
+    visibility: hidden;
+}
+
+

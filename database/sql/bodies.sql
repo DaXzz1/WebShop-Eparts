@@ -1,0 +1,16 @@
+INSERT INTO bodies
+VALUES (1, 'Sedan', 'Sedaan', 'Седан', 'sedan'),
+       (2, 'Wagon', 'Maastur', 'Универсал', 'wagon'),
+       (3, 'Hatchback', 'Hatšbek', 'Хетчбэк', 'hatchback'),
+       (4, 'Liftback', 'Liftbek', 'Лифтбек', 'liftback'),
+       (5, 'Limousine', 'Limo', 'Лимузин', 'limousine'),
+       (6, 'SUV', 'Maastur', 'Внедорожник', 'suv'),
+       (7, 'Crossover', 'Crossover', 'Кроссовер', 'crossover'),
+       (8, 'Stretch', 'Stretch', 'Стретч', 'stretch'),
+       (9, 'Coupe', 'Kupee', 'Купе', 'coupe'),
+       (10, 'Convertible', 'Avatud', 'Кабриолет', 'convertible'),
+       (11, 'Roadster', 'Roadster', 'Родстер', 'roadster'),
+       (12, 'Targa', 'Targa', 'Тарга', 'targa'),
+       (13, 'Pickup', 'Käru', 'Пикап', 'pickup'),
+       (14, 'Van', 'Vank', 'Фургон', 'van'),
+       (15, 'Minivan', 'Minivan', 'Минивэн', 'minivan');

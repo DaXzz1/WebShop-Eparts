@@ -1,0 +1,2 @@
+INSERT INTO `users` (`id`, `name`, `email`, `password`, `firstName`, `lastName`, `phone`, `country`, `city`, `address`, `address2`, `zipCode`, `state`, `avatar`, `role`, `remember_token`, `stripe_id`, `createdAt`) VALUES
+    (1, 'admin', 'admin@eparts.ee', '$2y$10$sA3qH3xrDY4YoSOI5zEw8eyWyPqVku.g7ssNFt7DHZmUFhVXaJ0CG', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, 'default.png', 'admin', NULL, NULL, '2023-05-04 20:05:54');

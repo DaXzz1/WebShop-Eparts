@@ -1,0 +1,4 @@
+# Ignore Laravel generated files
+/vendor
+/public
+/storage
