@@ -1,8 +1,8 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-## About Laravel
+## Eparts
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+## Table Of Contents
 
 -   [Simple, fast routing engine](https://laravel.com/docs/routing).
 -   [Powerful dependency injection container](https://laravel.com/docs/container).
@@ -33,8 +33,16 @@ Thank you for considering contributing to the Laravel framework! The contributio
 
 ## Technologies
 
--   **[Bogdan Fedortsenko](https://)**
--   **[Danil Barsukov](https://)**
+-   **[Prettier](https://prettier.io/)**: Code Formatter
+-   **[Tailwind CSS](https://tailwindcss.com/)**: CSS framework
+-   **[Tippy.js](https://atomiks.github.io/tippyjs/)**: JavaScript tooltip library
+-   **[Vite](https://vitejs.dev/)**: Building Tools for Web Application Development
+-   **[DaisyUI](https://daisyui.com/)**: A set of pre-made styles and components
+-   **[Axios](https://axios-http.com/)**: HTTP client
+-   **[Stripe](https://stripe.com/)**: Payment platform
+-   **[Filament](https://filamentapp.com/)**: Administrative interface
+-   **[MySQL](https://www.mysql.com/)**: Relational database
+-   **[Laravel](https://laravel.com/)**: Framework for developing web applications
 
 ## Authors
 
