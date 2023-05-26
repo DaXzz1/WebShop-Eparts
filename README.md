@@ -2,9 +2,7 @@
 
 
 ## Table Of Contents
-
--   [Getting Started](https://github.com/DaXzz1/WebShop-Eparts#getting-started).
-    -   [Installation](github.com/DaXzz1/WebShop-Eparts#installation).
+-   [Installation](github.com/DaXzz1/WebShop-Eparts#installation).
 -   [Technologies](https://github.com/DaXzz1/WebShop-Eparts#technologies).
 -   [Authors](https://github.com/DaXzz1/WebShop-Eparts#authors).
 -   [License](https://github.com/DaXzz1/WebShop-Eparts#license).
