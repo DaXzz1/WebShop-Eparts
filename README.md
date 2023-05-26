@@ -28,8 +28,8 @@
 
 ## Authors
 
--   **[Bogdan Fedortsenko](https://)**
--   **[Danil Barsukov](https://)**
+-   **[Bogdan Fedortsenko](https://github.com/DaXzz1)**
+-   **[Danil Barsukov](https://github.com/Nell0w)**
 
 ## License
 
